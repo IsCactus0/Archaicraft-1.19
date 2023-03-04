@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "archaicraft:aloe_leaf"
+    }
+  },
+  "result": {
+    "item": "archaicraft:aloe_plant"
+  }
+}
