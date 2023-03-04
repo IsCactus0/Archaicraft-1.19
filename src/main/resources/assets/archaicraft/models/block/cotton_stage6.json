@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "archaicraft:block/cotton_stage6"
+  },
+  "render_type": "cutout"
+}
